@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"C:/Users/AKoyuncu/Engineering3637/DevOpsMuttablePipeline1/day4/starter-code/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/AKoyuncu/Engineering3637/DevOpsMuttablePipeline1/day4/starter-code","disabled":false,"__vagrantfile":true}}}
